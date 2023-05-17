@@ -1,7 +1,12 @@
+body
+{
+background-color: #f5f5f5;	
+}
 #heading
 {
 	background-color:#011e29;
 	padding:10px;
+	width:100%;
 }
 h1
 {
@@ -10,5 +15,38 @@ h1
 }
 #content
 {
-	background-color:black;
+	display:flex;
+}
+#news1
+{
+	background-color:white;
+	border-radius:10px;
+	padding:20px;
+	margin:20px;
+	height:250px;
+}
+
+
+#news2
+{
+	background-color:white;
+	border-radius:10px;
+	padding:20px;
+	margin:20px;
+	text-align:center;
+	height:300px
+}
+img
+{
+	width:300px;
+	height:200px;
+	margin:20px;
+}
+#news3
+{
+	background-color:white;
+	border-radius:10px;
+	padding:20px;
+	margin:20px;
+
 }
