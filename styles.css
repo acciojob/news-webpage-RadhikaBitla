@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+#heading
+{
+	background-color:#011e29;
+	padding:10px;
+}
+h1
+{
+	color:white;
+	text-align:center;
+}
+#content
+{
+	background-color:black;
+}
